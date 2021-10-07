@@ -1,0 +1,43 @@
+body {
+    background-color: black;    /*definerar sidans ferg och margin och andra almänna saker*/
+    background-size: cover;
+    margin:200px;
+    font-family: sans-serif;
+}
+p {
+    color: white;   /*gör så man kan se texten mot den svarta bakrunden genom att göra den vit*/
+}
+.small-image {      /*skapar och definerar klassen small-image*/
+    width: 300px;
+    height: 300px;
+}
+h1 {
+    border: 5px solid crimson;  /*definerar h1 och linjen runt*/
+    border-radius: 20px;
+    color: white;
+    padding-top: 5px;       /*fixar paddingen och margin så att det ser bättre ut med linjen rund titlen*/
+    padding-right: 0px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    margin-top: 20px;
+    margin-right: 80%;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+h2 {
+    border: 5px solid crimson;  /*definerar h2 och linjen runt*/
+    border-radius: 20px;
+    color: white;
+    padding-top: 5px;       /*fixar paddingen och margin så att det ser bättre ut med linjen rund titlen*/
+    padding-right: 0px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    margin-top: 20px;
+    margin-right: 93%;      /*gör så att den passar vilket är slättare då det bara finns en längd av text som den tillhör*/
+    margin-bottom: 20px;
+    margin-left: 20px;
+    font-size: larger;      /*gör så att texten ser lite större ut*/
+}
+ul {
+    color: white;
+}
