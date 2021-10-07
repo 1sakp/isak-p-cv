@@ -1,4 +1,0 @@
-Jag har stött på några problem under programeringen som att jag inte visste hur man
-skrev så att indexen hittade style filen men efter 1 minut av googling så fixade jag det.
-sedan var et problem att när jag definerade h1 att textlängderna som den tillhörde var av olika längd
-detta gjorde så att den blev för stor för vissa men helt okej för andra.
